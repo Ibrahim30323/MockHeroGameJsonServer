@@ -15,7 +15,7 @@
       "uses": 2
     }
   ],
-    "villain": [
+    "villains": [
       {
         "id": 1,
         "name": "Dr Evil"
@@ -33,6 +33,8 @@
     "name": "Ibrahim30323"
   }
 }
+
+
 
 
 
