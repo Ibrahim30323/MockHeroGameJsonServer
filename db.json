@@ -1,14 +1,21 @@
 {
-  "heroes": [
+  "Hero": [
     {
-      "id": 1,
+      "Play_ID": [Auto-Generated],
       "title": "Captain Swinburne",
       "minDice": 1,
       "maxDice": 6,
       "uses": 2
     },
     {
-      "id": 2,
+      "Play_ID": [Auto-Generated],
+      "name": "Rick",
+      "minDice": 4,
+      "maxDice": 8,
+      "uses": 2
+    }
+     {
+      "Play_ID": [Auto-Generated],
       "name": "John Carmack",
       "minDice": 4,
       "maxDice": 8,
@@ -17,15 +24,15 @@
   ],
     "villains": [
       {
-        "id": 1,
+        "Play_ID": [Auto-Generated],
         "name": "Dr Evil"
       },  
       {
-        "id": 2,
+        "Play_ID": [Auto-Generated],
         "name": "Covid Cal"
       },  
       {
-        "id": 3,
+        "Play_ID": [Auto-Generated],
         "name": "Networking Nancy"
       }  
      ], 
